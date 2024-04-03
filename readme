@@ -1,9 +1,11 @@
-# Project Title
-
-## Description
-
-A brief description of what this project does and who it's for.
+## First exercises for the module 5 - week 1 by Ines.
 
 ## Installation
 
-Provide step by step series of examples and explanations about how to get a development environment running.
+Please use commands:
+
+ ```
+npm install 
+npm start 
+
+``` 
